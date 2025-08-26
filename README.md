@@ -68,7 +68,7 @@ The pipeline covers all major steps from raw data to model evaluation and conclu
 
 ---
 
-## 📊 Example Results
+## 📊 Results
 
 | Model                  | Accuracy | Precision | Recall | F1-score |
 |-------------------------|----------|-----------|--------|----------|
